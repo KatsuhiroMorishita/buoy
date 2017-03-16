@@ -1,4 +1,4 @@
-buoy
+buoy・・・ブイを用いたPID制御のサンプルコード
 ====
 
 This purpose of this script is calculate parameter of buoyant-force control, for a float in water; ARGO flaot.
